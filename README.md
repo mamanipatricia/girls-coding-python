@@ -8,9 +8,9 @@ This is a repository to practice Python.
 - Pilar
 - Dayana
 - Melany
-- Patricia 
-Twitter: [@pattty_m](https://twitter.com/pattty_m)
-Github: [mamanipatricia](https://github.com/mamanipatricia/)
+- Patricia
+    - Twitter: [@pattty_m](https://twitter.com/pattty_m)
+    - Github: [mamanipatricia](https://github.com/mamanipatricia/)
 
 ### Topics:
 - Algorithms
