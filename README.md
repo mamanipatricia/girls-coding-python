@@ -2,6 +2,15 @@ PROGRAMMING IN PYTHON
 =====================
 
 This is a repository to practice Python.
+### Members
+
+- Lupe
+- Pilar
+- Dayana
+- Melany
+- Patricia 
+Twitter: [@pattty_m](https://twitter.com/pattty_m)
+Github: [mamanipatricia](https://github.com/mamanipatricia/)
 
 ### Topics:
 - Algorithms
@@ -18,4 +27,8 @@ This is a repository to practice Python.
 - [Juez Patito](https://jv.umsa.bo/contest.php)
 
 
-### join us in `jitsi`
+### Sessions
+Template para documentar una sesion [template-session.md](./template-session.md)
+
+
+### Join us in `jitsi`
