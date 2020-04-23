@@ -25,6 +25,11 @@ This is a repository to practice Python.
 - [Project Euler](https://projecteuler.net/)
 - [CodeChef](https://www.codechef.com/)
 - [Juez Patito](https://jv.umsa.bo/contest.php)
+- [Uva](https://onlinejudge.org/)
+
+**Tools** 
+- [Uhunt](https://uhunt.onlinejudge.org/), Uhunt is a tool for Uva and this tool classification the problems in different topics Ex. Dynamic Programming, Data Structures and more.
+-[visualgo](https://visualgo.net/es), visualgo is a tool for visualisations of algorithms Ex. Graph Structures, Link List, Binary Search and more. 
 
 
 ### Sessions
