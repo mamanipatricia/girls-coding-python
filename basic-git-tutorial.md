@@ -6,8 +6,27 @@ GIT - GITHUB
 Aprendiendo git.
 
 ## Table of contents
-[TOC]
-
+- [GIT - GITHUB](#git---github)
+  - [Table of contents](#table-of-contents)
+- [Instalando Git](#instalando-git)
+- [Flujo de trabajo en Git](#flujo-de-trabajo-en-git)
+- [Tu Identidad](#tu-identidad)
+- [GITHUB Interface](#github-interface)
+  - [1. Crear Repositorio vacio en Github.](#1-crear-repositorio-vacio-en-github)
+  - [2. Nombre del repositorio y configuraciones](#2-nombre-del-repositorio-y-configuraciones)
+  - [3. Alojando un proyecto local en el repositorio ya creado.](#3-alojando-un-proyecto-local-en-el-repositorio-ya-creado)
+    - [Existen 2 opciones](#existen-2-opciones)
+  - [4. Clonando un repositorio de Github](#4-clonando-un-repositorio-de-github)
+- [Pasos que usualmente se realiza cuando se trabaja con Git.](#pasos-que-usualmente-se-realiza-cuando-se-trabaja-con-git)
+  - [1. Obteniendo cambios del remoto](#1-obteniendo-cambios-del-remoto)
+  - [2. Editar archivos](#2-editar-archivos)
+  - [3. Git diff](#3-git-diff)
+  - [4. Git status](#4-git-status)
+  - [5. Git add](#5-git-add)
+  - [6. Git diff or git diff  --staged](#6-git-diff-or-git-diff---staged)
+  - [7. Git Commit](#7-git-commit)
+  - [8. Git Log](#8-git-log)
+  - [9. Git push](#9-git-push)
 
 # Instalando Git
 - En manjaro
@@ -53,6 +72,7 @@ git config --global user.email johndoe@example.com
 ELEGIR publico/privado
 
 ![](https://i.imgur.com/ReUeFZQ.png)
+
 Ya habiendo creado un repositorio en github, subir un proyecto local al repositorio que se acaba de crear.
 
 ## 3. Alojando un proyecto local en el repositorio ya creado.
@@ -197,9 +217,14 @@ git push origin
 3 doritos despues :ghost: empiezas desde el paso 1.
 y asi despues codeas, commiteas, pusheas, comes, duermes, despiertas, codeas, commiteas, pusheas, duermes ... XD
 
+Original post: [git basic](https://hackmd.io/@pattty/git-basic)
+
+
 ----
 En resumen, el flujo de trabajo en Git luce asi.
 ![](https://i.imgur.com/JbfKR87.png)
+
+
 
 
 
